@@ -1,5 +1,5 @@
 # Adaptive Landing Page for Beauty Salon "S&Mitler"
 
-* Demo: .
+* Demo: https://kaznacheyev.github.io/SMitler/.
 
 ---
